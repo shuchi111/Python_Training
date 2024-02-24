@@ -1,0 +1,22 @@
+# workshop project
+'''This program is just written by shuchi shukla in python weekend training
+@author=Shuchi Shukla (shuchi111)
+ python CODE standard PEP-8
+ 
+primary data structure of python
+1. list
+2. Tuple
+3. Dictionary
+4. Set
+
+variable name should be in lower case and no spaces are allowed.
+underscore is allowed a space
+
+key to implement PEP-8
+ctrl+A
+Ctrl + ALT + shift +L
+
+writing comment in code is value addition not wastage of time 
+'''
+x = " Shuchi" #variable with string value
+print( x) 
